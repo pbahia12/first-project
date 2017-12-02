@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  background-color:yellow;
+}
+.list-item{
+  font-family: monospace;
+  font-size: 15px;
+}
+#css-item {
+  color: #5179ba;
+}
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 20%;
+}
+#picture {
+  width:60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
